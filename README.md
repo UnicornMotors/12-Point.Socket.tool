@@ -20,6 +20,8 @@ sch: https://www.harborfreight.com/search?q=12%20point%20socket
 - https://www.harborfreight.com/38-in-drive-sae-high-visibility-socket-set-10-pc-67924.html
 - https://www.harborfreight.com/hand-tools/sockets-ratchets/38-in-drive-sae-high-visibility-socket-set-10-pc-67924.html
 - https://www.harborfreight.com/hand-tools/sockets-ratchets/38-in-drive-sae-chrome-socket-set-10-pc-64211.html
+#### Colors
+- https://www.harborfreight.com/hand-tools/sockets-ratchets/10-piece-3-8-eighth-inch-sae-color-coded-socket-set-93262.html
 
 ### Metric
 #### Short
