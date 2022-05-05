@@ -12,3 +12,9 @@ sch: https://www.harborfreight.com/search?q=12%20point%20socket
 ### SAE
 #### Deep
 - https://www.harborfreight.com/hand-tools/sockets-ratchets/sockets/12-in-drive-sae-impact-deep-socket-set-13-pc-61902.html
+
+# Chrome
+## 3/8" Drive
+### SAE
+### Short
+https://www.harborfreight.com/hand-tools/sockets-ratchets/38-in-drive-sae-chrome-socket-set-10-pc-64211.html
